@@ -82,7 +82,7 @@ D:.
 
 ```bash
 
-python train.py
+python train_with_BLEU.py
 
 ```
 
